@@ -1,0 +1,7 @@
+D:\.NET\c#\Console\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe.config
+D:\.NET\c#\Console\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe
+D:\.NET\c#\Console\Arithmatic\Arithmatic\bin\Debug\Arithmatic.pdb
+D:\.NET\c#\Console\Arithmatic\Arithmatic\obj\Debug\Arithmatic.csproj.AssemblyReference.cache
+D:\.NET\c#\Console\Arithmatic\Arithmatic\obj\Debug\Arithmatic.csproj.CoreCompileInputs.cache
+D:\.NET\c#\Console\Arithmatic\Arithmatic\obj\Debug\Arithmatic.exe
+D:\.NET\c#\Console\Arithmatic\Arithmatic\obj\Debug\Arithmatic.pdb
